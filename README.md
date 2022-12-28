@@ -12,4 +12,6 @@ I created an informative and easy to use interactive map to display GeoJSON eart
 The interactive map is intended to help data reporters, analysts, and individuals visually identify trends in disasters and disaster reporting. The differences in magnitudes of earthquakes all over the world will be mapped for the last seven days.
 
 ---
-
+# Results
+The interactive map turned out great! Here is a screenshot from 12/28/2022:
+![Earthquake map][/Resources/earthquake_map.png)
