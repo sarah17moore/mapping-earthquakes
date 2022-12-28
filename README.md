@@ -14,4 +14,5 @@ The interactive map is intended to help data reporters, analysts, and individual
 ---
 # Results
 The interactive map turned out great! Here is a screenshot from 12/28/2022:
-![Earthquake map][/Resources/earthquake_map.png)
+
+![Earthquake map](/Resources/earthquake_map.png)
