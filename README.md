@@ -23,5 +23,5 @@ These screenshots were taken on 12/28/2022 from the earthquake_challenge index.h
 ![Major earthquakes in the last 7 days map](/Resources/major_earthquakes.png)
 *Major earthquakes in the last 7 days map*
 
-![All earthquakes in the last 7 days map](/Resources/all_and_major_earthquakes.png)
+![All earthquakes in the last 7 days map](/Resources/dark_all_and_major_earthquakes.png)
 *All earthquakes in the last 7 days dark version map*
